@@ -43,14 +43,6 @@ Tenho foco e interesse em **desenvolvimento web** e **cybersegurança** 🔐 —
 
 | [**Livraria with MySQL**](https://github.com/israellevyzz/livraria_with_MySQL) | Sistema de catálogo e troca de livros — projeto da cadeira de **Requisitos de Software**, em parceria com o Levy. | HTML · CSS · PHP · MySQL |
 
-### 🤝 Em parceria
-
-
-
-- 👨‍💻 **Levy** ([israellevyzz](https://github.com/israellevyzz)) — minha dupla na cadeira de **Requisitos de Software** 🎓. Juntos levantamos requisitos (e o moral) e construímos a [**Livraria with MySQL**](https://github.com/israellevyzz/livraria_with_MySQL), um sistema de catálogo e troca de livros em PHP + MySQL.
-
-
-
 ### 🔭 Atualmente
 
 - 🔐 Estudando **cybersegurança** (o lado sombrio do código... quer dizer, o lado seguro)
