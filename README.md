@@ -41,6 +41,16 @@ Tenho foco e interesse em **desenvolvimento web** e **cybersegurança** 🔐 —
 |---|---|---|
 | [**Caderno de Leituras**](https://github.com/mariaaclarab/caderno-de-leituras) | Blog de reviews de livros com modal de leitura e busca em tempo real. Primeiro projeto de Desenvolvimento Web — deu trabalho, deu orgulho. | HTML · CSS · JS puro |
 
+| [**Livraria with MySQL**](https://github.com/israellevyzz/livraria_with_MySQL) | Sistema de catálogo e troca de livros — projeto da cadeira de **Requisitos de Software**, em parceria com o Levy. | HTML · CSS · PHP · MySQL |
+
+### 🤝 Em parceria
+
+
+
+- 👨‍💻 **Levy** ([israellevyzz](https://github.com/israellevyzz)) — minha dupla na cadeira de **Requisitos de Software** 🎓. Juntos levantamos requisitos (e o moral) e construímos a [**Livraria with MySQL**](https://github.com/israellevyzz/livraria_with_MySQL), um sistema de catálogo e troca de livros em PHP + MySQL.
+
+
+
 ### 🔭 Atualmente
 
 - 🔐 Estudando **cybersegurança** (o lado sombrio do código... quer dizer, o lado seguro)
