@@ -6,19 +6,9 @@
 
 ### 👩‍💻 Quem sou eu
 
-**Maria Clara** — estudante de **Engenharia de Software** na **UFC**, onde passo os dias equilibrando `<div>`s, lógica de programação e a eterna luta contra a procrastinação (perdendo, mas lutando).
+**Maria Clara** — estudante de **Engenharia de Software** na **UFC**
 
 Tenho foco e interesse em **desenvolvimento web** e **cybersegurança** 🔐 — porque todo mundo gosta de construir castelos, mas eu também gosto de garantir que ninguém derruba o meu.
-
-> 🐱🐶 **Currículo oficial:** mãe de gatos e cachorros, dev por vocação, leitora por vício.
-
-### 🛠️ Arsenal (aka o que eu uso)
-
-| Área | Tecnologias |
-|---|---|
-| **Linguagens** | C · Python · Java · JavaScript · Haskell |
-| **Web** | HTML · CSS · JavaScript · React |
-| **Missão atual** | Conquistar a cybersegurança 🛡️ |
 
 <div align="center">
 
@@ -45,16 +35,13 @@ Tenho foco e interesse em **desenvolvimento web** e **cybersegurança** 🔐 —
 
 ### 🔭 Atualmente
 
-- 🔐 Estudando **cybersegurança** (o lado sombrio do código... quer dizer, o lado seguro)
+- 🔐 Estudando **cybersegurança** 
 - 🖥️ Aprofundando em **React** e desenvolvimento web
-- 📖 Lendo mais livros do que a lista permite
-- 🐾 Negociando espaço no teclado com os pets (eles sempre vencem)
 
 ### 🎓 Linguagens que já me dominaram
 
-`C` `Python` `Java` `JavaScript` `Haskell` `HTML` `CSS` `React`
+`C` `Python` `Java` `JavaScript` `HTML` `CSS` `React`
 
-*Haskell me dominou de volta, mas a gente ainda se fala.*
 
 ### 📫 Onde me encontrar
 
